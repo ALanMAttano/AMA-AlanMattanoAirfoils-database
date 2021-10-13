@@ -1,1 +1,2 @@
-Experiment
+A big RC glider old timer that fly slow.
+Characteristic: Low wing loading.
