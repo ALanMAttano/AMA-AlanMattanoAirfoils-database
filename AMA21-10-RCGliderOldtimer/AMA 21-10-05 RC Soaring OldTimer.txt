@@ -1,3 +1,7 @@
-A big RC glider old-timer that flies slow.
+## A big RC glider old-timer that flies slow.
 
-Characteristic: Low wing loading.
+Characteristic: 
+* Low wing loading target
+* Low Re numbers
+* High max lift number
+* Good efficieny 
