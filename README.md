@@ -4,38 +4,52 @@
 
 *Each folder is an airfoil project research. In each project, you will find the airfoil evolution. Airfoil coordinates and polar charts were made using my Digital Airfoil Designer software (DAD). Wind Chanel data came out from Drela Xfoil.*
 
-* AMA= Alan Mattanó Airfoil
-* AMA 21= the year when the project idea was started
-* AMA 21*10*=
 
-## Collaboration
+
+
+https://www.youtube.com/watch?v=AcGxMhnTe0I
+
+
+## AMA AEROFOIL NAMING CONVENTION
+*Example* : 
+     
+>**AMA 211001 RCSoaring (LD81.8 A1.4 R0.2 N9 T12.7 CL2.05)**
+
+* _**`AMA`**_= acronym for Alan Mattanó Airfoil
+* AMA **`21`**= the year when the project idea was created (in this case 2021)
+* AMA 21 **`10`**= the internal project number (of that year)
+* AMA 2110 **`01`** = the airfoil number (evolution of that project)
+* AMA 211001 **`RCSoaring`**= the airfoil general purpuse (short desciption)
+* AMA 211001 RCSoaring **`(LD81.8 A1.4 R0.2 N9 T12.7 CL2.05)`**= airfoil characteristics ( `LD`: maximum l/d efficiency at that Re, `A`: angle alpha of that LD, `R`: airfoil was design for Reynolds number, `N`: Ncrit turbulance value, `T`: Thickness percentage, `CL`: maximum lift coeficient at that Re). 
+
+## AMA Collaboration
 *if you wish to improve this project,*
 * Please modify or fork freely.
 * And push back wind channel chart results or airfoil improve changes 
 
-## Contact: 
+## AMA Contact: 
 * Issues: https://github.com/ALanMAttano/AMA-AlanMattanoAirfoils-database/issues
 * [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/SoaringSim) 
 * [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/alanmattano/)
 
 ---
-## Licenses
+## MIT License
 *A simple permissive license with only requiring preservation of copyright notices.*
 
-PERMISSIONS
+#### PERMISSIONS
    * Yes Commercial use
    * Yes Modification
    * Yes Distribution
    * Yes Private use
  
-LIMITATIONS
+#### LIMITATIONS
    * No Liability
    * No Warranty
  
-CONDITIONS
+#### CONDITIONS
    * The license copyright notice
 
-[LINK](https://github.com/ALanMAttano/AMA-AlanMattanoAirfoils-database/blob/main/LICENSE)
+#### [LINK](https://github.com/ALanMAttano/AMA-AlanMattanoAirfoils-database/blob/main/LICENSE)
    * https://github.com/ALanMAttano/AMA-AlanMattanoAirfoils-database/blob/main/LICENSE
 
 ### MIT License
@@ -65,5 +79,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## WARNING:
+## AMA WARNING:
 none
