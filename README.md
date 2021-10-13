@@ -2,12 +2,12 @@
 <h2 align="center">Using Digital Airfoil Designer</h2>
 <h3 align="center">Collection of airfoils for general public made by Alan Mattanó</h3>
 
-*Each folder is an airfoil project research. In each project, you will find the airfoil evolution. Airfoil coordinates and polar charts were made using my Digital Airfoil Designer software (DAD). Wind Chanel data came out from Drela Xfoil.*
+*Each folder is an airfoil project research. In each project, you will find the airfoil evolution. Airfoil coordinates and polar charts were made using my [Digital Airfoil Designer software (DAD)](https://www.youtube.com/watch?v=AcGxMhnTe0I). Wind Chanel data came out from Drela Xfoil.*
 
 
 
 
-https://www.youtube.com/watch?v=AcGxMhnTe0I
+
 
 
 ## AMA AEROFOIL NAMING CONVENTION
@@ -17,9 +17,9 @@ https://www.youtube.com/watch?v=AcGxMhnTe0I
 
 * _**`AMA`**_= acronym for Alan Mattanó Airfoil
 * AMA **`21`**= the year when the project idea was created (in this case 2021)
-* AMA 21 **`10`**= the internal project number (of that year)
-* AMA 2110 **`01`** = the airfoil number (evolution of that project)
-* AMA 211001 **`RCSoaring`**= the airfoil general purpuse (short desciption)
+* AMA 21 **`10`**= Each year some projects are created. Project n°:1, n°2, this is project number 10
+* AMA 2110 **`01`** = For each project, aerodynamic profiles are created in sequence with an internal number (last in evolution is better).
+* AMA 211001 **`RCSoaring`**= the airfoil general purpuse short desciption name.
 * AMA 211001 RCSoaring **`(LD81.8 A1.4 R0.2 N9 T12.7 CL2.05)`**= airfoil characteristics ( `LD`: maximum l/d efficiency at that Re, `A`: angle alpha of that LD, `R`: airfoil was design for Reynolds number, `N`: Ncrit turbulance value, `T`: Thickness percentage, `CL`: maximum lift coeficient at that Re). 
 
 ## AMA Collaboration
@@ -80,4 +80,4 @@ SOFTWARE.
 ```
 
 ## AMA WARNING:
-none
+AMA aerofoils were never tested in a real wind tunnel. The stalls can be very different from how they appear in the charts.  Please be careful!
